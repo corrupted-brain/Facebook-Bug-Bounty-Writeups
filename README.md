@@ -37,7 +37,7 @@ https://thesecurityexperts.wordpress.com/2017/12/20/dom-xss-in-facebook-mobile-s
 http://www.breaksec.com/?p=6192 ( https://vimeo.com/65453658 )
 http://www.sneaked.net/invisible-arbitrary-csrf-profile-picture-upload-in-facebook
 https://www.josipfranjkovic.com/blog/facebook-csrf-full-account-takeover
-http s://josipfranjkovic.blogspot.com/2013/11/facebook-bug-bounty-secondary-damage.html
+https://josipfranjkovic.blogspot.com/2013/11/facebook-bug-bounty-secondary-damage.html
 https://amolnaik4.blogspot.com/2012/08/facebook-csrf-worth-usd-5000.html
 https://web.archive.org/web/20160110053958/http://www.dan-melamed.com/2013/06/hacking-any-facebook-account-exploit-poc.html
 http://www.paulosyibelo.com/2015/01/facebooks-oculus-exploiting.html
@@ -109,6 +109,7 @@ https://philippeharewood.com/ability-to-invite-any-user-to-a-facebook-page-all-n
 https://sweethacking.blogspot.com/2014/11/how-i-made-500-usd-by-reporting-logical.html
 http://patorjk.com/blog/2013/03/01/facebook-user-identification-bug/
 https://web.archive.org/web/20160125122634/http://allanjaydumanhug.ninja/blog/facebook-privacy-bug-view-photos-as-a-blocked-user/
+https://ysamm.com/?p=280
 https://web.archive.org/web/20160414193314/https://abhartiya.wordpress.com/2014/12/23/a-bug-in-facebook-that-violated-my-privacy/
 https://josipfranjkovic.blogspot.com/2015/07/the-easiest-bug-bounties-i-have-ever-won.html
 https://pranavhivarekar.in/2016/02/20/facebooks-bug-fooling-graph-search-to-bypass-privacy-restrictions/
@@ -121,7 +122,7 @@ https://philippeharewood.com/find-mingle-suggestions-for-any-facebook-user-revis
 https://philippeharewood.com/view-saved-offers-of-another-user/
 https://medium.com/@armaanpathan/idor-was-leading-to-privilege-escalation-and-violating-the-facebook-policy-355c67c654e6
 
-####Page Roles<br>
+#### Page Roles<br>
 http://whitehatstories.blogspot.in/2017/09/how-i-could-have-crashed-page-role.html
 https://philippeharewood.com/tag-photos-as-a-page-analyst/
 https://philippeharewood.com/using-an-analyst-account-to-post-to-facebook-open-graph-objects/
@@ -140,9 +141,12 @@ https://blog.darabi.me/2015/03/facebook-bypass-ads-account-roles.html
 https://philippeharewood.com/ads-api-error-leads-to-ad-account-id-being-leaked-from-the-legacy-account-id/
 https://philippeharewood.com/view-the-ads-retention-curve-completion-rate-for-any-ad-account/
 https://philippeharewood.com/de-anonymizing-facebook-ads/
+https://medium.com/@evilboyajay/session-expiration-bypass-in-facebook-creator-app-b4f65cc64ce4
+https://medium.com/@rohitcoder/whitehat-test-accounts-can-act-as-hidden-admin-with-business-manager-ad-accounts-ce75ead5ffff
 
 #### Facebook Groups<br>
 https://web.archive.org/web/20171103133104/http://thesecuritynews.com/project/how-i-was-able-to-post-in-any-facebook-group-on-behalf-of-its-members/
+https://medium.com/@edmundaa222/poc-disclose-members-in-any-closed-facebook-group-259783fa4bf
 https://www.facebook.com/notes/$2500-lakhpati-bug-at-facebook-gaining-access-to-files-of-a-closed-group/686615161373797 
 https://medium.com/@rahulmfg/get-groups-doc-without-user-permission-facebook-graph-api-bug-5f19367373a2
 https://philippeharewood.com/the-group-idphotos-endpoint-isnt-obeying-the-publish_actions-and-user_groups-permission-requirement/
@@ -259,6 +263,7 @@ https://medium.com/@lokeshdlk77/stealing-facebook-mailchimp-application-oauth-2-
 
 #### Instagram<br>
 http://www.iltalehti.fi/digi/2016050221506011_du.shtml
+https://www.facebook.com/notes/kinghackx/breaking-video-calling-feature-in-instagram-app/522128951955609/
 https://viaforensics.com/mobile-security/hacked-your-instagram-account.html 
 https://josipfranjkovic.blogspot.com/2013/07/how-i-found-my-way-into-instagrams.html
 http://breaksec.com/?p=6164
@@ -272,6 +277,7 @@ https://www.arneswinnen.net/2016/05/instabrute-two-ways-to-brute-force-instagram
 http://bugdisclose.blogspot.in/2017/04/instagram-email-verification-issue.html
 https://philippeharewood.com/find-instagram-contacts-for-any-user-on-facebook/
 https://stefanovettorazzi.com/taking_over_instagram_accounts/
+https://bugreader.com/majd@privilege-escalation-in-instagram-chat-groups-102?fbclid=IwAR0V9mh-9pT3oQ97eBvlNtY4LpvPw42mowDXkTtPTRcuNBYgoQpMmZoNSaQ
 
 #### Signal<br>
 https://philippeharewood.com/getting-facebook-signal-app-access-token/
@@ -293,7 +299,12 @@ https://web.archive.org/web/20171112164937/http://www.paulosyibelo.com:80/2015/1
 https://immukul.blogspot.in/2016/11/whatsapp-hacked.html
 http://blog.pentestnepal.tech/post/156707088037/i-got-emails-g-suite-vulnerability
 https://medium.com/bugbountywriteup/whatsapp-dos-vulnerability-in-ios-android-d896f76d3253
+https://medium.com/bugbountywriteup/facebook-bug-bounty-reading-whatsapp-contacts-list-without-unlocking-the-device-a40e9c660a42
 
 #### Workplace<br>
 https://philippeharewood.com/a-walk-in-the-workplace/
 https://www.youtube.com/watch?v=H0aQPcuskMo
+https://medium.com/bugbountywriteup/facebook-workplace-privilege-escalation-vulnerability-to-change-the-post-privacy-as-public-634f1c995780
+
+### Whitehat Test Accounts<br>
+https://medium.com/@rohitcoder/whitehat-test-accounts-can-act-as-hidden-admin-with-business-manager-ad-accounts-ce75ead5ffff
