@@ -3,10 +3,10 @@
 Thanks to [@phwd](https://twitter.com/phwd) and the [Facebook BugBounty Group (https://www.facebook.com/groups/bugbountygroup/) <br>
 
 
-###ImageTragick<br>
+#### ImageTragick<br>
 https://4lemon.ru/2017-01-17_facebook_imagetragick_remote_code_execution.html
 
-###XSS<br>
+#### XSS<br>
 https://opnsec.com/2018/03/stored-xss-on-facebook/
 https://twitter.com/opnsec/status/855076273395204097
 https://whitton.io/articles/xss-on-facebook-via-png-content-types/
