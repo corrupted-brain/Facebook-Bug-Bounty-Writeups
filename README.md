@@ -3,10 +3,10 @@
 Thanks to [@phwd](https://twitter.com/phwd) and the [Facebook BugBounty Group (https://www.facebook.com/groups/bugbountygroup/) 
 Use https://www.facebook.com/groups/bugbountygroup/ for additions
 
-ImageTragick
+###ImageTragick
 https://4lemon.ru/2017-01-17_facebook_imagetragick_remote_code_execution.html
 
-XSS
+###XSS
 https://opnsec.com/2018/03/stored-xss-on-facebook/
 https://twitter.com/opnsec/status/855076273395204097
 https://whitton.io/articles/xss-on-facebook-via-png-content-types/
@@ -33,7 +33,7 @@ https://web.archive.org/web/20160724215405/http://ameeras.me/Instagram-Reflected
 https://www.facebook.com/groups/bugbountygroup/permalink/440483256348508/
 https://thesecurityexperts.wordpress.com/2017/12/20/dom-xss-in-facebook-mobile-siteapp-login/
 
-CSRF
+###CSRF
 http://www.breaksec.com/?p=6192 ( https://vimeo.com/65453658 )
 http://www.sneaked.net/invisible-arbitrary-csrf-profile-picture-upload-in-facebook
 https://www.josipfranjkovic.com/blog/facebook-csrf-full-account-takeover
@@ -54,7 +54,7 @@ https://exploitthesecurity.blogspot.com/2018/01/low-hanging-fruits-4.html
 SSRF
 https://dr4cun0.com/blog/ssrf-at-update-subscription-menu/ 
 
-Logic
+###Logic
 http://nirgoldshlager.blogspot.com/2013/01/how-i-hacked-facebook-employees-secure.html
 http://pwndizzle.blogspot.in/2014/07/breaking-facebooks-text-captcha.html
 http://bugbountypoc.com/business-logic-flaw-facebook-poc/
@@ -68,30 +68,30 @@ https://www.youtube.com/watch?v=j_KiiiYpl4w
 https://www.aryansinha.com/2017/08/facebook-checkpoint-flaw.html
 https://www.facebook.com/Drix17/videos/1799639230274532/?fref=gs&dti=349225725474262&hc_location=group
 
-Race Conditions
+###Race Conditions
 https://www.josipfranjkovic.com/blog/race-conditions-on-web
 https://josipfranjkovic.blogspot.com/2015/04/race-conditions-on-facebook.html
 
-Rate Limits
+###Rate Limits
 http://www.anandpraka.sh/2016/03/how-i-could-have-hacked-your-facebook.html
 http://arunsureshkumar.me/index.php/2016/04/24/facebook-account-take-over/
 http://xss001.blogspot.in/2016/05/instagram-account-takeover.html
 https://techmedia.com.ng/2016/05/bug-hunter-dislcoses-way-hack-instagram-accounts-facebook/
 https://www.kieranclaessens.be/facebook-text-authentication-flaw.html
 
-Open Redirect ($500+)
+###Open Redirect ($500+)
 https://thekaitokid.blogspot.com/2014/10/multiple-open-redirection.html
 https://0xsobky.github.io/evading-facebook-linkshim/
 https://arulkumar.in/multiple-open-url-redirection-vulnerability-in-facebook-worth-1500/
 https://www.vulnerability-lab.com/get_content.php?id=975
 https://yassineaboukir.com/blog/how-i-discovered-a-1000-open-redirect-in-facebook/
 
-Clickjacking
+###Clickjacking
 https://www.codegrudge.com/2015/03/how-i-got-5000-from-facebook-bugbounty.html
 http://www.paulosyibelo.com/2015/03/facebook-bug-bounty-clickjacking.html
 http://www.lachisterablanca.com/2014/02/bypass-de-la-proteccion-contra.html
 
-Object Reference ($10,000+)
+###Object Reference ($10,000+)
 http://www.anandpraka.sh/2014/11/hacking-facebookcomthanks-posting-on.html
 https://whitton.io/articles/hijacking-a-facebook-account-with-sms/
 https://arulkumar.in/delete-any-photo-from-facebook-by-exploiting-support-dashboard/
@@ -104,7 +104,7 @@ https://www.youtube.com/watch?v=DvNHjh0EJNs
 https://philippeharewood.com/posting-gifs-as-anyone-on-facebook/
 https://blog.darabi.me/2017/11/image-removal-vulnerability-in-facebook.html
 
-Privacy/Spam ($1500+)
+###Privacy/Spam ($1500+)
 https://philippeharewood.com/ability-to-invite-any-user-to-a-facebook-page-all-non-friends/
 https://sweethacking.blogspot.com/2014/11/how-i-made-500-usd-by-reporting-logical.html
 http://patorjk.com/blog/2013/03/01/facebook-user-identification-bug/
@@ -121,7 +121,7 @@ https://philippeharewood.com/find-mingle-suggestions-for-any-facebook-user-revis
 https://philippeharewood.com/view-saved-offers-of-another-user/
 https://medium.com/@armaanpathan/idor-was-leading-to-privilege-escalation-and-violating-the-facebook-policy-355c67c654e6
 
-Page Roles
+###Page Roles
 http://whitehatstories.blogspot.in/2017/09/how-i-could-have-crashed-page-role.html
 https://philippeharewood.com/tag-photos-as-a-page-analyst/
 https://philippeharewood.com/using-an-analyst-account-to-post-to-facebook-open-graph-objects/
@@ -135,13 +135,13 @@ https://philippeharewood.com/change-trust-project-credibility-indicators-as-an-a
 https://medium.com/@ajdumanhug/a-simple-bug-on-facebook-that-is-worth-8000-b77f7e01b064
 https://medium.com/@joshuaregio/using-app-ads-helper-as-an-analytic-user-e751fcf9c594
 
-Facebook Ads
+###Facebook Ads
 https://blog.darabi.me/2015/03/facebook-bypass-ads-account-roles.html
 https://philippeharewood.com/ads-api-error-leads-to-ad-account-id-being-leaked-from-the-legacy-account-id/
 https://philippeharewood.com/view-the-ads-retention-curve-completion-rate-for-any-ad-account/
 https://philippeharewood.com/de-anonymizing-facebook-ads/
 
-Facebook Groups
+###Facebook Groups
 https://web.archive.org/web/20171103133104/http://thesecuritynews.com/project/how-i-was-able-to-post-in-any-facebook-group-on-behalf-of-its-members/
 https://www.facebook.com/notes/$2500-lakhpati-bug-at-facebook-gaining-access-to-files-of-a-closed-group/686615161373797 
 https://medium.com/@rahulmfg/get-groups-doc-without-user-permission-facebook-graph-api-bug-5f19367373a2
@@ -149,11 +149,11 @@ https://philippeharewood.com/the-group-idphotos-endpoint-isnt-obeying-the-publis
 https://zappstiko.blogspot.com/2017/02/facebook-group-hack-in-2015-i-reported.html
 https://medium.com/@iamkartiksingh/missing-functional-level-access-control-in-secret-groups-86da6c110775 
 
-Phone number
+###Phone number
 https://medium.com/bugbountywriteup/how-i-was-able-to-remove-your-instagram-phone-number-d346515e79c3
 https://philippeharewood.com/determine-a-user-from-a-private-phone-number/
 
-Email address
+###Email address
 https://stephensclafani.com/2013/07/09/obtaining-the-primary-email-address-of-any-facebook-user/
 https://web.archive.org/web/20161223175543/http://www.dawgyg.com/2016/12/21/disclosing-the-primary-email-address-for-each-facebook-user/
 http://fogmarks.com/2016/04/03/facebook-invitees-email-addresss-disclosure/
@@ -161,30 +161,30 @@ https://web.archive.org/web/20170809142917/http://blog.internot.info/2014/05/fac
 https://philippeharewood.com/view-commerce-settings-and-email-for-any-page-shop/
 https://philippeharewood.com/view-the-assigned-roles-and-emails-of-an-instagram-account/
 
-IP address
+###IP address
 https://asad0x01.blogspot.com/2017/05/facebook-buggetting-other-users-ip.html
 
-Symlink Attack
+###Symlink Attack
 https://josipfranjkovic.blogspot.com/2014/12/reading-local-files-from-facebooks.html
 
-Accellion’s Secure File Transfer
+###Accellion’s Secure File Transfer
 http://blog.orange.tw/2016/04/bug-bounty-how-i-hacked-facebook-and-found-someones-backdoor-script.html
 
-XXE
+###XXE
 https://www.ubercomp.com/posts/2014-01-16_facebook_remote_code_execution
 https://web.archive.org/web/20150316053924/http://attack-secure.com/hacked-facebook-word-document/
 
-LFI
+###LFI
 http://www.websecuritylog.com/2014/10/facebook--bug-bounty.html?spref=tw
 
-SQLi
+###SQLi
 https://bitquark.co.uk/blog/2014/08/31/popping_a_shell_on_the_oculus_developer_portal
 https://josipfranjkovic.blogspot.com/2014/09/step-by-step-exploiting-sql-injection.html
 
-Jenkins
+###Jenkins
 https://blog.dewhurstsecurity.com/2014/12/09/how-i-hacked-facebook.html
 
-API
+###API
 https://asad0x01.blogspot.com/2017/05/facebook-bugcommentingon-non-friends.html
 https://stephensclafani.com/2014/07/08/hacking-facebooks-legacy-api-part-1-making-calls-on-behalf-of-any--user/
 https://roy-castillo.blogspot.com/2013/07/how-i-exposed-your-primary-facebook.html
@@ -221,7 +221,7 @@ https://web.archive.org/web/20170708101949/http://thesecuritynews.com/project/ac
 https://philippeharewood.com/view-instant-articles-traffic-lift-for-any-page/
 https://philippeharewood.com/view-the-owned-test-users-for-facebook-employees/
 
-GraphQL
+###GraphQL
 https://philippeharewood.com/view-the-graphql-stored-queries-for-any-application/
 https://philippeharewood.com/path-disclosure-in-facebook-graphql-api/
 https://philippeharewood.com/facebook-employees-commission-splits-counts-are-shown/
@@ -230,7 +230,7 @@ https://medium.com/@rajsek/my-3rd-facebook-bounty-hat-trick-chennai-tcs-er-name-
 https://pranavhivarekar.in/2017/02/11/facebooks-bug-unauthorized-access-to-credit-card-details-limited-of-any-user/
 https://web.archive.org/web/20171105173154/http://thesecuritynews.com/project/see-insights-of-any-live-video/
 
-FQL
+###FQL
 https://filippo.io/a-bug-worth-4200$/
 https://philippeharewood.com/facebook-keyword_insights-bug/
 https://philippeharewood.com/getting-the-username-in-fql-in-2-0-applications/
@@ -238,7 +238,7 @@ https://philippeharewood.com/getting-the-username-in-fql-in-2-0-applications/
 Login Nonces
 https://stephensclafani.com/2017/03/21/stealing-messenger-com-login-nonces/
 
-OAuth (AKA Stealing Access Tokens)
+###OAuth (AKA Stealing Access Tokens)
 https://www.josipfranjkovic.com/blog/hacking-facebook-csrf-device-login-flow
 https://stephensclafani.com/2014/07/29/hacking-facebooks-legacy-api-part-2-stealing-user-sessions/
 https://isciurus.blogspot.ru/2013/04/a-story-of-9500-bug-in-facebook-oauth-20.html 
@@ -257,7 +257,7 @@ http://whitehatstories.blogspot.in/2017/05/oauth-token-validation-bug-in-faceboo
 https://medium.com/@lokeshdlk77/bypass-oauth-nonce-and-steal-oculus-response-code-faa9cc8d0d37
 https://medium.com/@lokeshdlk77/stealing-facebook-mailchimp-application-oauth-2-0-access-token-3af51f89f5b0
 
-Instagram
+###Instagram
 http://www.iltalehti.fi/digi/2016050221506011_du.shtml
 https://viaforensics.com/mobile-security/hacked-your-instagram-account.html 
 https://josipfranjkovic.blogspot.com/2013/07/how-i-found-my-way-into-instagrams.html
@@ -273,27 +273,27 @@ http://bugdisclose.blogspot.in/2017/04/instagram-email-verification-issue.html
 https://philippeharewood.com/find-instagram-contacts-for-any-user-on-facebook/
 https://stefanovettorazzi.com/taking_over_instagram_accounts/
 
-Signal
+###Signal
 https://philippeharewood.com/getting-facebook-signal-app-access-token/
 
-Slingshot
+###Slingshot
 https://philippeharewood.com/add-any-facebook-user-non-friend-to-slingshot-without-knowing-the-username/
 
-Messenger Lite Android
+###Messenger Lite Android
 https://www.aryansinha.com/2017/11/session-misconfiguration-in-messenger.html
 
-Moments
+###Moments
 https://philippeharewood.com/rewriting-a-photo-not-owned-by-the-session-user-in-moments-app/
 https://philippeharewood.com/delete-any-moments-app-photo-or-folder-not-owned-by-the-session-user/
 
-Moves
+###Moves
 https://web.archive.org/web/20171112164937/http://www.paulosyibelo.com:80/2015/12/facebooks-moves-oauth-xss.html
 
-Whatsapp
+###Whatsapp
 https://immukul.blogspot.in/2016/11/whatsapp-hacked.html
 http://blog.pentestnepal.tech/post/156707088037/i-got-emails-g-suite-vulnerability
 https://medium.com/bugbountywriteup/whatsapp-dos-vulnerability-in-ios-android-d896f76d3253
 
-Workplace
+###Workplace
 https://philippeharewood.com/a-walk-in-the-workplace/
 https://www.youtube.com/watch?v=H0aQPcuskMo
