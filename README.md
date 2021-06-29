@@ -226,6 +226,7 @@ https://philippeharewood.com/view-instant-articles-traffic-lift-for-any-page/
 https://philippeharewood.com/view-the-owned-test-users-for-facebook-employees/
 
 #### GraphQL<br>
+https://kailashbohara.com.np/blog/2020/11/18/GraphQL-IDOR-in-Facebook-streamer-dashboard/
 https://philippeharewood.com/view-the-graphql-stored-queries-for-any-application/
 https://philippeharewood.com/path-disclosure-in-facebook-graphql-api/
 https://philippeharewood.com/facebook-employees-commission-splits-counts-are-shown/
