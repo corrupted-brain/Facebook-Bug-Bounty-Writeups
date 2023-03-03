@@ -1,4 +1,4 @@
-# Facebook-Bug-Bounty-Writeups
+# Facebook Bug Bounty Writeups Collection
 
 Thanks to [@phwd](https://twitter.com/phwd) and the [Facebook BugBounty Group (https://www.facebook.com/groups/bugbountygroup/) <br>
 
