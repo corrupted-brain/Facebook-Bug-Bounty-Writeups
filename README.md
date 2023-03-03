@@ -19,8 +19,15 @@ https://ysamm.com/?p=763
 
 
 
-#### ImageTragick<br>
-https://4lemon.ru/2017-01-17_facebook_imagetragick_remote_code_execution.html
+#### Remote Code Execution<br>
+https://4lemon.ru/2017-01-17_facebook_imagetragick_remote_code_execution.html<br>
+[Meta's SparkAR RCE Via ZIP Path Traversal](https://blog.fadyothman.com/metas-sparkar/)
+
+
+### 2FA Bypass<br>
+https://infosecwriteups.com/how-i-couldve-bypassed-the-2fa-security-of-instagram-once-again-43c05cc9b755 
+https://infosecwriteups.com/bypassing-2-factor-authentication-for-facebook-business-manager-bounty-1000-usd-c78c858459d6
+
 
 #### XSS<br>
 [XSS in Facebook CDN due to improper filtering of uploaded files extensions](https://ysamm.com/?p=632)<br>
@@ -52,6 +59,7 @@ https://www.facebook.com/groups/bugbountygroup/permalink/440483256348508/
 https://thesecurityexperts.wordpress.com/2017/12/20/dom-xss-in-facebook-mobile-siteapp-login/
 
 #### CSRF<br>
+https://medium.com/@mohamedajimi59/csrf-in-instagram-461cbba286a
 https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980
 http://www.breaksec.com/?p=6192 ( https://vimeo.com/65453658 )
 http://www.sneaked.net/invisible-arbitrary-csrf-profile-picture-upload-in-facebook
@@ -111,7 +119,8 @@ https://www.codegrudge.com/2015/03/how-i-got-5000-from-facebook-bugbounty.html
 http://www.paulosyibelo.com/2015/03/facebook-bug-bounty-clickjacking.html
 http://www.lachisterablanca.com/2014/02/bypass-de-la-proteccion-contra.html
 
-#### Object Reference ($10,000+)<br>
+#### Insecure Direct Object Reference (IDOR)<br>
+[Instagram IDOR Bug - $4300](https://medium.com/@nvmeeet/4300-instagram-idor-bug-2022-5386cf492cad)<br>
 [Disclose unconfirmed email/phone of a Facebook user](https://ysamm.com/?p=700)<br>
 http://www.anandpraka.sh/2014/11/hacking-facebookcomthanks-posting-on.html
 https://whitton.io/articles/hijacking-a-facebook-account-with-sms/
@@ -125,7 +134,11 @@ https://www.youtube.com/watch?v=DvNHjh0EJNs
 https://philippeharewood.com/posting-gifs-as-anyone-on-facebook/
 https://blog.darabi.me/2017/11/image-removal-vulnerability-in-facebook.html
 
-#### Privacy/Spam ($1500+)<br>
+#### Privacy/Spam <br>
+https://infosecwriteups.com/this-is-how-i-was-able-to-see-private-archived-posts-stories-of-users-on-instagram-without-de70ca39165c
+https://iamsaugat.medium.com/a-facebook-bug-that-exposes-email-phone-number-to-your-friends-a980d24e5ea8
+https://hiecstasy.medium.com/this-is-how-i-was-able-to-see-and-delete-your-private-facebook-portal-photos-a93ed22f875b
+https://medium.com/@yaala/trim-private-live-videos-and-access-them-a331447cc82a
 https://philippeharewood.com/ability-to-invite-any-user-to-a-facebook-page-all-non-friends/
 https://sweethacking.blogspot.com/2014/11/how-i-made-500-usd-by-reporting-logical.html
 http://patorjk.com/blog/2013/03/01/facebook-user-identification-bug/
@@ -144,6 +157,8 @@ https://philippeharewood.com/view-saved-offers-of-another-user/
 https://medium.com/@armaanpathan/idor-was-leading-to-privilege-escalation-and-violating-the-facebook-policy-355c67c654e6
 
 #### Page Roles<br>
+https://medium.com/pentesternepal/how-i-was-able-to-reveal-page-admin-of-almost-any-page-on-facebook-5a8d68253e0c
+https://zerocode-ph.medium.com/page-admin-disclosure-when-posting-a-reel-1bfac9bd7f71
 http://whitehatstories.blogspot.in/2017/09/how-i-could-have-crashed-page-role.html
 https://philippeharewood.com/tag-photos-as-a-page-analyst/
 https://philippeharewood.com/using-an-analyst-account-to-post-to-facebook-open-graph-objects/
@@ -158,6 +173,7 @@ https://medium.com/@ajdumanhug/a-simple-bug-on-facebook-that-is-worth-8000-b77f7
 https://medium.com/@joshuaregio/using-app-ads-helper-as-an-analytic-user-e751fcf9c594
 
 #### Facebook Ads<br>
+https://www.yesnaveen.com/2021/12/Instagram-ad-account-disclosure.html
 https://blog.darabi.me/2015/03/facebook-bypass-ads-account-roles.html
 https://philippeharewood.com/ads-api-error-leads-to-ad-account-id-being-leaked-from-the-legacy-account-id/
 https://philippeharewood.com/view-the-ads-retention-curve-completion-rate-for-any-ad-account/
@@ -166,6 +182,7 @@ https://medium.com/@evilboyajay/session-expiration-bypass-in-facebook-creator-ap
 https://medium.com/@rohitcoder/whitehat-test-accounts-can-act-as-hidden-admin-with-business-manager-ad-accounts-ce75ead5ffff
 
 #### Facebook Groups<br>
+https://medium.com/@muhammadsholikhin/facebook-vulnerability-expose-group-member-3000-cca809a53f6b
 https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e<br>
 https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html<br>
 https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html<br>
@@ -182,6 +199,9 @@ https://medium.com/bugbountywriteup/how-i-was-able-to-remove-your-instagram-phon
 https://philippeharewood.com/determine-a-user-from-a-private-phone-number/
 
 #### Email address<br>
+https://lokeshdlk77.medium.com/confirming-any-new-email-address-bug-in-facebook-part-4-70cfe1b4dca5
+https://medium.com/pentesternepal/facebook-email-disclosure-and-account-takeover-ecdb44ee12e9
+https://iamsaugat.medium.com/a-facebook-bug-that-exposes-email-phone-number-to-your-friends-a980d24e5ea8
 https://stephensclafani.com/2013/07/09/obtaining-the-primary-email-address-of-any-facebook-user/
 https://web.archive.org/web/20161223175543/http://www.dawgyg.com/2016/12/21/disclosing-the-primary-email-address-for-each-facebook-user/
 http://fogmarks.com/2016/04/03/facebook-invitees-email-addresss-disclosure/
@@ -268,6 +288,7 @@ https://philippeharewood.com/getting-the-username-in-fql-in-2-0-applications/
 https://stephensclafani.com/2017/03/21/stealing-messenger-com-login-nonces/
 
 #### OAuth (AKA Stealing Access Tokens)<br>
+https://medium.com/@yaala/facebook-oauth-bypass-446a073e687d
 https://www.josipfranjkovic.com/blog/hacking-facebook-csrf-device-login-flow
 https://stephensclafani.com/2014/07/29/hacking-facebooks-legacy-api-part-2-stealing-user-sessions/
 https://isciurus.blogspot.ru/2013/04/a-story-of-9500-bug-in-facebook-oauth-20.html 
@@ -316,6 +337,7 @@ https://philippeharewood.com/getting-facebook-signal-app-access-token/
 https://philippeharewood.com/add-any-facebook-user-non-friend-to-slingshot-without-knowing-the-username/
 
 #### Messenger  Android<br>
+https://servicenger.com/mobile/facebook-messenger-for-android-indirect-thread-deletion
 https://www.aryansinha.com/2017/11/session-misconfiguration-in-messenger.html
 https://www.vulnano.com/2019/03/facebook-messenger-server-random-memory.html
 
@@ -327,6 +349,7 @@ https://philippeharewood.com/delete-any-moments-app-photo-or-folder-not-owned-by
 https://web.archive.org/web/20171112164937/http://www.paulosyibelo.com:80/2015/12/facebooks-moves-oauth-xss.html
 
 #### Whatsapp<br>
+https://infosecwriteups.com/whatsapp-bug-bounty-bypassing-biometric-authentication-using-voip-87548ef7a0ba<br>
 https://immukul.blogspot.in/2016/11/whatsapp-hacked.html
 http://blog.pentestnepal.tech/post/156707088037/i-got-emails-g-suite-vulnerability
 https://medium.com/bugbountywriteup/whatsapp-dos-vulnerability-in-ios-android-d896f76d3253
@@ -350,3 +373,13 @@ https://infosecwriteups.com/hacking-facebook-invoice-how-i-couldve-bought-anythi
 
 ### DOS Attack<br>
 https://www.yesnaveen.com/2022/05/remotely-permanent-crash-any-instagram.html?m=1
+
+### Facebook/Instagram Mobile App <br>
+[Taking over the Call to Action button on Mobile Devices](https://www.ash-king.co.uk/blog/abusing-Facebooks-call-to-action-to-launch-internal-deeplinks)<br>
+[Facebook android webview vulnerability : Execute arbitrary javascript (xss) and load arbitrary website ](https://servicenger.com/mobile/facebook-android-webview-vulnerability/)<br>
+[Instagram vulnerability : Turn off all type of message requests using deeplink (Android)](https://servicenger.com/mobile/instagram-vulnerability-turn-off-message-requests-deeplink/)<br>
+[Facebook Messenger for android indirect thread deletion vulnerability.](https://servicenger.com/mobile/facebook-messenger-for-android-indirect-thread-deletion/)<br>
+[Multiple bugs allowed malicious Android Applications to takeover Facebook/Workplace accounts](https://ysamm.com/?p=729)<br>
+https://otmastimi.medium.com/users-location-diclosure-in-the-nearby-friends-feature-fabd24be05cb<br>
+https://infosecwriteups.com/how-i-could-have-accessed-all-your-private-videos-photos-saved-inside-your-device-without-even-1a7e455ddcc8
+
