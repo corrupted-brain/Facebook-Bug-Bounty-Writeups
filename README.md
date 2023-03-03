@@ -10,7 +10,7 @@ https://ysamm.com/?p=763
 [Account takeover of Facebook/Oculus accounts due to First-Party access_token stealing](https://ysamm.com/?p=777)<br>
 [Multiple bugs chained to takeover Facebook Accounts which uses Gmail.](https://ysamm.com/?p=763)<br>
 [Multiple bugs allowed malicious Android Applications to takeover Facebook/Workplace accounts](https://ysamm.com/?p=729)<br>
-[More secure Facebook Canvas : Tale of $126k worth of bugs that lead to Facebook Account Takeovers](More secure Facebook Canvas : Tale of $126k worth of bugs that lead to Facebook Account Takeovers)<br>
+[More secure Facebook Canvas : Tale of $126k worth of bugs that lead to Facebook Account Takeovers](https://ysamm.com/?p=708)<br>
 [Account takeover of Instagram accounts due to unrestricted permissions of third-party application’s generated tokens](https://ysamm.com/?p=684)<br>
 [Facebook account takeover due to unsafe redirects after the OAuth flow](https://ysamm.com/?p=667)<br>
 [Facebook account takeover due to a wide platform bug in ajaxpipe responses](https://ysamm.com/?p=654)<br>
