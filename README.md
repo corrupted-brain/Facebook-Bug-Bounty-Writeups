@@ -166,6 +166,7 @@ https://medium.com/@evilboyajay/session-expiration-bypass-in-facebook-creator-ap
 https://medium.com/@rohitcoder/whitehat-test-accounts-can-act-as-hidden-admin-with-business-manager-ad-accounts-ce75ead5ffff
 
 #### Facebook Groups<br>
+https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e
 https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html
 https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html
 https://web.archive.org/web/20171103133104/http://thesecuritynews.com/project/how-i-was-able-to-post-in-any-facebook-group-on-behalf-of-its-members/
