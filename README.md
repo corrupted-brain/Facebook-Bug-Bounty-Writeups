@@ -3,6 +3,13 @@
 Thanks to [@phwd](https://twitter.com/phwd) and the [Facebook BugBounty Group (https://www.facebook.com/groups/bugbountygroup/) <br>
 
 
+#### Account Takeovers<br>
+https://www.vulnano.com/2022/07/react-debugkeystore-key-was-trusted-by.html
+https://ysamm.com/?p=763
+[Account takeover of Facebook/Oculus accounts due to First-Party access_token stealing](https://ysamm.com/?p=777)<br>
+[Multiple bugs chained to takeover Facebook Accounts which uses Gmail.](https://ysamm.com/?p=763)
+
+
 #### ImageTragick<br>
 https://4lemon.ru/2017-01-17_facebook_imagetragick_remote_code_execution.html
 
@@ -34,6 +41,7 @@ https://www.facebook.com/groups/bugbountygroup/permalink/440483256348508/
 https://thesecurityexperts.wordpress.com/2017/12/20/dom-xss-in-facebook-mobile-siteapp-login/
 
 #### CSRF<br>
+https://lokeshdlk77.medium.com/facebook-sms-captcha-was-vulnerable-to-csrf-attack-8db537b1e980
 http://www.breaksec.com/?p=6192 ( https://vimeo.com/65453658 )
 http://www.sneaked.net/invisible-arbitrary-csrf-profile-picture-upload-in-facebook
 https://www.josipfranjkovic.com/blog/facebook-csrf-full-account-takeover
@@ -73,6 +81,7 @@ https://www.josipfranjkovic.com/blog/race-conditions-on-web
 https://josipfranjkovic.blogspot.com/2015/04/race-conditions-on-facebook.html
 
 #### Rate Limits<br>
+http://www.hackingmonks.net/2022/07/facebook-bug-poc-contactpoint-inference.html
 http://www.anandpraka.sh/2016/03/how-i-could-have-hacked-your-facebook.html
 http://arunsureshkumar.me/index.php/2016/04/24/facebook-account-take-over/
 http://xss001.blogspot.in/2016/05/instagram-account-takeover.html
@@ -145,6 +154,8 @@ https://medium.com/@evilboyajay/session-expiration-bypass-in-facebook-creator-ap
 https://medium.com/@rohitcoder/whitehat-test-accounts-can-act-as-hidden-admin-with-business-manager-ad-accounts-ce75ead5ffff
 
 #### Facebook Groups<br>
+https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html
+https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html
 https://web.archive.org/web/20171103133104/http://thesecuritynews.com/project/how-i-was-able-to-post-in-any-facebook-group-on-behalf-of-its-members/
 https://medium.com/@edmundaa222/poc-disclose-members-in-any-closed-facebook-group-259783fa4bf
 https://www.facebook.com/notes/$2500-lakhpati-bug-at-facebook-gaining-access-to-files-of-a-closed-group/686615161373797 
@@ -263,6 +274,10 @@ https://medium.com/@lokeshdlk77/bypass-oauth-nonce-and-steal-oculus-response-cod
 https://medium.com/@lokeshdlk77/stealing-facebook-mailchimp-application-oauth-2-0-access-token-3af51f89f5b0
 
 #### Instagram<br>
+https://infosecwriteups.com/how-i-found-a-critical-bug-in-instagram-and-got-49500-bounty-from-facebook-626ff2c6a853
+https://www.vulnano.com/2022/07/react-debugkeystore-key-was-trusted-by.html
+https://medium.com/@the_null_kid/instagram-photo-was-present-in-data-backup-nearly-after-two-years-being-deleted-f0e4d6e108
+https://medium.com/@avinash_/email-confirmation-bypass-at-instagram-cc968f9a126
 http://www.iltalehti.fi/digi/2016050221506011_du.shtml
 https://www.facebook.com/notes/kinghackx/breaking-video-calling-feature-in-instagram-app/522128951955609/
 https://viaforensics.com/mobile-security/hacked-your-instagram-account.html 
@@ -286,8 +301,9 @@ https://philippeharewood.com/getting-facebook-signal-app-access-token/
 #### Slingshot<br>
 https://philippeharewood.com/add-any-facebook-user-non-friend-to-slingshot-without-knowing-the-username/
 
-#### Messenger Lite Android<br>
+#### Messenger  Android<br>
 https://www.aryansinha.com/2017/11/session-misconfiguration-in-messenger.html
+https://www.vulnano.com/2019/03/facebook-messenger-server-random-memory.html
 
 #### Moments<br>
 https://philippeharewood.com/rewriting-a-photo-not-owned-by-the-session-user-in-moments-app/
@@ -309,3 +325,9 @@ https://medium.com/bugbountywriteup/facebook-workplace-privilege-escalation-vuln
 
 ### Whitehat Test Accounts<br>
 https://medium.com/@rohitcoder/whitehat-test-accounts-can-act-as-hidden-admin-with-business-manager-ad-accounts-ce75ead5ffff
+
+### Facebook Event<br>
+https://infosecwriteups.com/irremovable-guest-in-facebook-event-facebook-bug-bounty-e10e03c98cd5
+
+### Facebook Business Page<br>
+https://infosecwriteups.com/hacking-facebook-invoice-how-i-couldve-bought-anything-for-free-from-facebook-business-pages-42bcfaa73ec4
