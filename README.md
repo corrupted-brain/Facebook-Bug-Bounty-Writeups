@@ -166,16 +166,16 @@ https://medium.com/@evilboyajay/session-expiration-bypass-in-facebook-creator-ap
 https://medium.com/@rohitcoder/whitehat-test-accounts-can-act-as-hidden-admin-with-business-manager-ad-accounts-ce75ead5ffff
 
 #### Facebook Groups<br>
-https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e
-https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html
-https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html
-https://web.archive.org/web/20171103133104/http://thesecuritynews.com/project/how-i-was-able-to-post-in-any-facebook-group-on-behalf-of-its-members/
-https://medium.com/@edmundaa222/poc-disclose-members-in-any-closed-facebook-group-259783fa4bf
-https://www.facebook.com/notes/$2500-lakhpati-bug-at-facebook-gaining-access-to-files-of-a-closed-group/686615161373797 
-https://medium.com/@rahulmfg/get-groups-doc-without-user-permission-facebook-graph-api-bug-5f19367373a2
-https://philippeharewood.com/the-group-idphotos-endpoint-isnt-obeying-the-publish_actions-and-user_groups-permission-requirement/
-https://zappstiko.blogspot.com/2017/02/facebook-group-hack-in-2015-i-reported.html
-https://medium.com/@iamkartiksingh/missing-functional-level-access-control-in-secret-groups-86da6c110775 
+https://spongebhav.medium.com/facebook-group-members-disclosure-e53eb83df39e<br>
+https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html<br>
+https://hopesamples.blogspot.com/2022/09/group-experts-pending-expertise-request.html<br>
+https://web.archive.org/web/20171103133104/http://thesecuritynews.com/project/how-i-was-able-to-post-in-any-facebook-group-on-behalf-of-its-members/<br>
+https://medium.com/@edmundaa222/poc-disclose-members-in-any-closed-facebook-group-259783fa4bf<br>
+https://www.facebook.com/notes/$2500-lakhpati-bug-at-facebook-gaining-access-to-files-of-a-closed-group/686615161373797 <br>
+https://medium.com/@rahulmfg/get-groups-doc-without-user-permission-facebook-graph-api-bug-5f19367373a2<br>
+https://philippeharewood.com/the-group-idphotos-endpoint-isnt-obeying-the-publish_actions-and-user_groups-permission-requirement/<br>
+https://zappstiko.blogspot.com/2017/02/facebook-group-hack-in-2015-i-reported.html<br>
+https://medium.com/@iamkartiksingh/missing-functional-level-access-control-in-secret-groups-86da6c110775 <br>
 
 #### Phone number<br>
 https://medium.com/bugbountywriteup/how-i-was-able-to-remove-your-instagram-phone-number-d346515e79c3
