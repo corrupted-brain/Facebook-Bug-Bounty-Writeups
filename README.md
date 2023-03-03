@@ -1,19 +1,30 @@
 # Facebook Bug Bounty Writeups Collection
 
-Thanks to [@phwd](https://twitter.com/phwd) and the [Facebook BugBounty Group (https://www.facebook.com/groups/bugbountygroup/) <br>
+Thanks to [@phwd](https://twitter.com/phwd), Jaiswalakansh and the [Facebook BugBounty Group (https://www.facebook.com/groups/bugbountygroup/) <br>
+
 
 
 #### Account Takeovers<br>
 https://www.vulnano.com/2022/07/react-debugkeystore-key-was-trusted-by.html
 https://ysamm.com/?p=763
 [Account takeover of Facebook/Oculus accounts due to First-Party access_token stealing](https://ysamm.com/?p=777)<br>
-[Multiple bugs chained to takeover Facebook Accounts which uses Gmail.](https://ysamm.com/?p=763)
+[Multiple bugs chained to takeover Facebook Accounts which uses Gmail.](https://ysamm.com/?p=763)<br>
+[Multiple bugs allowed malicious Android Applications to takeover Facebook/Workplace accounts](https://ysamm.com/?p=729)<br>
+[More secure Facebook Canvas : Tale of $126k worth of bugs that lead to Facebook Account Takeovers](More secure Facebook Canvas : Tale of $126k worth of bugs that lead to Facebook Account Takeovers)<br>
+[Account takeover of Instagram accounts due to unrestricted permissions of third-party application’s generated tokens](https://ysamm.com/?p=684)<br>
+[Facebook account takeover due to unsafe redirects after the OAuth flow](https://ysamm.com/?p=667)<br>
+[Facebook account takeover due to a wide platform bug in ajaxpipe responses](https://ysamm.com/?p=654)<br>
+
+
+
 
 
 #### ImageTragick<br>
 https://4lemon.ru/2017-01-17_facebook_imagetragick_remote_code_execution.html
 
 #### XSS<br>
+[XSS in Facebook CDN due to improper filtering of uploaded files extensions](https://ysamm.com/?p=632)<br>
+[One-click reflected XSS in www.instagram.com due to unfiltered URI schemes leads to account takeover](https://ysamm.com/?p=695)<br>
 https://opnsec.com/2018/03/stored-xss-on-facebook/
 https://twitter.com/opnsec/status/855076273395204097
 https://whitton.io/articles/xss-on-facebook-via-png-content-types/
@@ -101,6 +112,7 @@ http://www.paulosyibelo.com/2015/03/facebook-bug-bounty-clickjacking.html
 http://www.lachisterablanca.com/2014/02/bypass-de-la-proteccion-contra.html
 
 #### Object Reference ($10,000+)<br>
+[Disclose unconfirmed email/phone of a Facebook user](https://ysamm.com/?p=700)<br>
 http://www.anandpraka.sh/2014/11/hacking-facebookcomthanks-posting-on.html
 https://whitton.io/articles/hijacking-a-facebook-account-with-sms/
 https://arulkumar.in/delete-any-photo-from-facebook-by-exploiting-support-dashboard/
@@ -274,6 +286,7 @@ https://medium.com/@lokeshdlk77/bypass-oauth-nonce-and-steal-oculus-response-cod
 https://medium.com/@lokeshdlk77/stealing-facebook-mailchimp-application-oauth-2-0-access-token-3af51f89f5b0
 
 #### Instagram<br>
+One-click reflected XSS in www.instagram.com due to unfiltered URI schemes leads to account takeover
 https://infosecwriteups.com/how-i-found-a-critical-bug-in-instagram-and-got-49500-bounty-from-facebook-626ff2c6a853
 https://www.vulnano.com/2022/07/react-debugkeystore-key-was-trusted-by.html
 https://medium.com/@the_null_kid/instagram-photo-was-present-in-data-backup-nearly-after-two-years-being-deleted-f0e4d6e108
@@ -325,9 +338,14 @@ https://medium.com/bugbountywriteup/facebook-workplace-privilege-escalation-vuln
 
 ### Whitehat Test Accounts<br>
 https://medium.com/@rohitcoder/whitehat-test-accounts-can-act-as-hidden-admin-with-business-manager-ad-accounts-ce75ead5ffff
+[Ability to find Facebook employee’s test accounts which lead to the disclosure of internal information](https://ysamm.com/?p=638)<br>
+
 
 ### Facebook Event<br>
 https://infosecwriteups.com/irremovable-guest-in-facebook-event-facebook-bug-bounty-e10e03c98cd5
 
 ### Facebook Business Page<br>
 https://infosecwriteups.com/hacking-facebook-invoice-how-i-couldve-bought-anything-for-free-from-facebook-business-pages-42bcfaa73ec4
+
+### DOS Attack<br>
+https://www.yesnaveen.com/2022/05/remotely-permanent-crash-any-instagram.html?m=1
