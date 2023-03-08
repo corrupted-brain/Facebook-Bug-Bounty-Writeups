@@ -558,7 +558,7 @@
 ![---------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <a name="EXTRAS"></a>
-### Some of the extra res that you may want to look at !!
+### Some of the extra resources that you may want to look at !!
 
 - [Facebook Security Page](https://www.facebook.com/security/)
 - [Facebook Bug Bounty Program](https://www.facebook.com/whitehat/)
@@ -570,7 +570,6 @@
 - [Facebook Security Tools and Scripts](https://github.com/facebookincubator)
 - [Facebook ThreatExchange Platform](https://www.threatexchange.fb.com/)
 - [Facebook Security Research Summit](https://www.facebook.com/notes/facebook-bug-bounty/facebook-security-research-summit-2018/1733463213382838/)
-- [Facebook Hacking Tricks and Tips on Reddit](https://www.reddit.com/r/facebookhacking/)
 - [Facebook Hacking Methods and Tools on GitHub](https://github.com/topics/facebook-hacking)
 - [Facebook Pentesting on Medium](https://medium.com/tag/facebook-pentesting)
 
@@ -584,4 +583,4 @@ Special Thanks to :-
  - [@phwd](https://twitter.com/phwd)
  - Jaiswalakansh 
  - [Facebook BugBounty Group](https://www.facebook.com/groups/bugbountygroup),  
- - and the [contributors](https://github.com/corrupted-brain/Facebook-Bug-Bounty-Writeups/graphs/contributors)
+ - and all the [contributors](https://github.com/corrupted-brain/Facebook-Bug-Bounty-Writeups/graphs/contributors)
